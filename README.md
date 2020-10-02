@@ -10,4 +10,4 @@ Mr Liquid WebSite Project
 
 * Create a Database named "mr_liquid_db" and import the given sql file.
 
-* All the images are re-arranged and named accrodingly.
+* All the images are re-arranged and named accordingly.
